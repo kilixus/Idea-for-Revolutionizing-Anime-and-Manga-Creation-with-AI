@@ -19,7 +19,7 @@ The core idea revolves around an AI model capable of generating character images
 ## Detailed Project Overview
 
 
-For a comprehensive understanding of the vision, objectives, and technical aspects of this project, I highly recommend checking out the detailed project proposal available in the Project Proposal PDF. This document delves deeper into the conceptual framework, the technology stack we plan to use, and the potential impact of the AI-driven animation creation tool on the anime and manga industry.
+For a comprehensive understanding of the vision, objectives, and technical aspects of this project, I highly recommend checking out the detailed project proposal available in the pdf within the repository entitled "AniMagine.pdf". This document delves deeper into the conceptual framework, the technology stack we plan to use, and the potential impact of the AI-driven animation creation tool on the anime and manga industry.
 
 
 Whether you're considering joining the project as a collaborator or simply interested in learning more about our approach, the proposal offers valuable insights into the groundbreaking possibilities we aim to explore.
